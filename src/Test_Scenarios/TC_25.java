@@ -16,6 +16,7 @@ public class TC_25 {
 
 		 WebDriver driver = new InternetExplorerDriver(ieOptions);
 		 driver.get("https://magento.softwaretestingboard.com/");
+		 
 	
 
 	}
